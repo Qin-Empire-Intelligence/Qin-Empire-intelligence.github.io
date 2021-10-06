@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Qin-Empire-Intelligence/Qin-Empire-intelligence.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Qin-Empire-Intelligence/Qin-Empire-intelligence.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <title>大秦帝国智慧的网页</title>
+  </head>
+  <body>
+    <h1>这是大秦帝国智慧的网页</h1>
+    <p>你以为是谁？Ko no Dio da！（不是）</p>
+    <script>
+    window.alert(202010);
+    </script>
+    <p>2 3 5 7 11 13 17 19 23 29 31 37 41 43...时间要加速了！</p>
+    <p id="demo">我的名字叫吉良吉影，年龄33岁。家住杜王町东北部别墅区一带，没有结婚。我在龟友...「绯红之王」...医生都说我很正常。</p>
+    <button type="button" onclick="alert ('4444')">盖多·米4达不要点我!</button>  
+    <script>
+    function myFunction()
+    {
+      x=document.getElementById("demo");  
+      x.innerHTML="小伙纸，你知道的太多了，白蛇！"; 
+    }
+    </script>
+    <button type="button" onclick="myFunction()">也不要点击这里！</button>
+    </script>
+    <button type="button" onclick="myFunction()">烤鸡要没有！</button>
+    <p id="demo">识宝修改（？）了你的意识，你现在非常喜欢识宝。</p>
+    <img src="/Users/guojinlong/Desktop/计算导论/套娃1/截屏2021-10-05 下午11.04.01.png"/>
+    <img src="/Users/guojinlong/Desktop/计算导论/套娃1/91640850_p0.png" alt="这是一只爱莉希雅" width="1200" />
+    <script>
+document.write(Date());
+</script>
+  
+  </body>
+</html>
